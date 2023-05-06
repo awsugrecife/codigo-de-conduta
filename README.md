@@ -1,7 +1,4 @@
-# codigo-de-conduta
-Código de conduta do AWS User Group Recife. 
-
-# Código de conduta
+# Código de conduta AWS User Group Recife
 
 # Finalidade
 
